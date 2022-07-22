@@ -6,7 +6,7 @@
 3.后台：SSM框架（当下最流行）
 
 需要的加扣扣389790849，另接项目代做，定制，技术辅导，bug修复
-
+，github图片显示不出来，可加扣查看。
 
 ![image](https://github.com/1311236/dpngman/blob/main/images/(DSC2U8T%40MA%24BJTJ%60D%5B3%24_Y.png)
 
